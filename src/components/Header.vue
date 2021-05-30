@@ -1,5 +1,5 @@
 <template>
-<div class="header position-relative d-flex flex-row align-items-center">
+<div class="header position-absolute container m- d-flex flex-row align-items-center">
   <div class="row w-100">
     <div
       class="
@@ -21,6 +21,6 @@
 
 <style lang="scss" scoped>
 .header {
-  height: 12%;
+  padding: 36px 0px;
 }
 </style>
