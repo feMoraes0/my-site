@@ -26,8 +26,6 @@
 
 <style lang="scss" scoped>
 .home {
-  height: 88%;
-
   h1 {
     font-size: 70px;
     font-weight: 700;
