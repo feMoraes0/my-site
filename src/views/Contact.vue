@@ -1,7 +1,7 @@
 <template>
   <div class="contact h-100 d-flex flex-column justify-content-center">
     <div class="row">
-      <div class="col-md-5">
+      <div class="col-md-5 align-self-center">
         <img class="w-100" src="@/assets/images/hands_ball.png" alt="hands ball">
       </div>
       <div class="offset-md-1 col-md-6  d-flex flex-column justify-content-center">
