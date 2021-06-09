@@ -5,7 +5,7 @@
         <img class="w-100" src="@/assets/images/hands_ball.png" alt="hands ball">
       </div>
       <div class="offset-md-1 col-md-6  d-flex flex-column justify-content-center">
-        <h1 class="text-center">Front End</h1>
+        <PageTitle class="text-center">Contact</PageTitle>
         <p class="w-100 text-center">
           Do you want to talk about a job oppurtunity, colab or any random topic?
           Nice! You can find me in all these links down below. Let’s have a chat!
@@ -33,18 +33,17 @@
 </template>
 
 <script>
-export default {
+import PageTitle from '@/components/PageTitle.vue';
 
+export default {
+  components: {
+    PageTitle,
+  },
 };
 </script>
 
 <style lang="scss" scoped>
 .contact {
-  h1 {
-    font-size: 70px;
-    font-weight: 700;
-  }
-
   p {
     font-size: 1.5rem;
     margin: 9.8vh 0;
