@@ -71,9 +71,5 @@ export default {
   p {
     font-size: 1.5rem;
   }
-
-  a {
-
-  }
 }
 </style>
