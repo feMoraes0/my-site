@@ -2,22 +2,22 @@
   <div class="home h-100 d-flex flex-column justify-content-center">
     <div class="row">
       <div class="col-md-4  d-flex flex-column justify-content-center align-self-center">
-        <PageTitle class="text-center">Front End</PageTitle>
+        <PageTitle class="text-center">Title 1</PageTitle>
         <p class="w-100 text-center">
-          Moved by how to provide the best user experience without lose performance
-          and code maintainability for mobile and web applications. Currently using
-          preferable, but not only, JavaScript libraries and framerwors.
+          Pellentesque vel egestas arcu, eget eleifend turpis. Aliquam sed orci
+          consectetur, maximus enim at, eleifend lectus. Nullam facilisis mauris
+          et vehicula placerat. Praesent vitae feugiat lorem. Duis luctus libero.
         </p>
       </div>
       <div class="col-md-4 align-self-center">
         <img class="w-100" src="@/assets/images/lamp_head.png" alt="lamp head">
       </div>
       <div class="col-md-4 d-flex flex-column justify-content-center align-self-center">
-        <PageTitle class="text-center">Back End</PageTitle>
+        <PageTitle class="text-center">Title 2</PageTitle>
         <p class=" w-100 text-center">
-          Focused in delivery well integrated systems with optimizations in time and
-          space without compromise the functionalities, requirements, legibility or security;
-          Using almost exclusively JavaScript and Typescript.
+          Pellentesque vel egestas arcu, eget eleifend turpis. Aliquam sed orci
+          consectetur, maximus enim at, eleifend lectus. Nullam facilisis mauris
+          et vehicula placerat. Praesent vitae feugiat lorem. Duis luctus libero.
         </p>
       </div>
     </div>

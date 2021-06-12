@@ -7,22 +7,22 @@
       <div class="offset-md-1 col-md-6  d-flex flex-column justify-content-center">
         <PageTitle class="text-center">Contact</PageTitle>
         <p class="w-100 text-center">
-          Do you want to talk about a job oppurtunity, colab or any random topic?
-          Nice! You can find me in all these links down below. Let’s have a chat!
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et ex sit
+          amet lacus ultrices elementum. Pellentesque vitae finibus tortor.
         </p>
         <div class="row text-center links">
           <div class="col-4">
-            <a target="_blank" href="https://github.com/feMoraes0">
+            <a target="_blank" href="https://github.com">
               <img src="@/assets/icons/github.svg" alt="Github">
             </a>
           </div>
           <div class="col-4">
-            <a target="_blank" href="https://www.linkedin.com/in/fernando-m-48a26916a/">
+            <a target="_blank" href="https://www.linkedin.com/in">
               <img src="@/assets/icons/linkedin.svg" alt="LinkedIn">
             </a>
           </div>
           <div class="col-4">
-            <a target="_blank" href="mailto:fernandomoraes.lopes@gmail.com">
+            <a target="_blank" href="mailto:you@gmail.com">
               <img src="@/assets/icons/mail.svg" alt="Mail">
             </a>
           </div>

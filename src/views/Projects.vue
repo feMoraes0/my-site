@@ -6,12 +6,7 @@
         <div class="row mb-5">
           <div class="offset-md-2 col-md-8">
             <p class="w-100 text-center">
-              Here you can see random four of my personal projects on
-              <a
-                target="_blank"
-                href="https://www.github.com/femoraes0"
-                class="link-dark text-decoration-none"
-              ><strong>GitHub</strong></a>
+              Integer interdum lacus semper, dignissim orci ut, tempus urna.
             </p>
           </div>
         </div>
@@ -20,29 +15,33 @@
           <div class="col-6 mb-4">
             <ProjectCard
               label="javascript"
-              title="starbucks-landing-page"
-              content="VueJS Hiking Landing Page with animations"
+              title="surrealist-personal-page"
+              content="Personal page template with
+              surrealist images and transitions made with VueJS."
             />
           </div>
           <div class="col-6 mb-4">
             <ProjectCard
               label="javascript"
-              title="starbucks-landing-page"
-              content="VueJS Hiking Landing Page with animations"
+              title="surrealist-personal-page"
+              content="Personal page template with
+              surrealist images and transitions made with VueJS."
             />
           </div>
           <div class="col-6">
             <ProjectCard
               label="javascript"
-              title="starbucks-landing-page"
-              content="VueJS Hiking Landing Page with animations"
+              title="surrealist-personal-page"
+              content="Personal page template with
+              surrealist images and transitions made with VueJS."
             />
           </div>
           <div class="col-6">
             <ProjectCard
               label="javascript"
-              title="starbucks-landing-page"
-              content="VueJS Hiking Landing Page with animations"
+              title="surrealist-personal-page"
+              content="Personal page template with
+              surrealist images and transitions made with VueJS."
             />
           </div>
         </div>
