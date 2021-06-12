@@ -65,7 +65,7 @@ $default-colour: #212529;
     left: calc(50% - 50px);
     width: 100px;
     height: 100px;
-    border-radius: 0;
+    border-radius: 100%;
     transform: scale(2000%);
     transition-duration: $animation-duration;
   }
